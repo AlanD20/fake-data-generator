@@ -1,8 +1,8 @@
 ## Fake Data Generator
 
 #### [Link To Demonstration Video](videos/demo.mp4)
-#### [LIVE Client-Side Demo](https://t6-fake-data-generator-client.herokuapp.com/)
-#### [LIVE Server-Side Demo](https://t6-fake-data-generator-server.herokuapp.com/)
+#### [LIVE Client-Side Demo](https://t6-fake-data-generator-client.glitch.me/)
+#### [LIVE Server-Side Demo](https://t6-fake-data-generator-server.glitch.me/)
 
 
 #### Instructions:
